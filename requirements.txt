@@ -4,7 +4,7 @@ graphene-django==2.0.dev2017083101
 graphql-core==2.0.dev20170801051721
 graphql-relay==0.4.5
 iso8601==0.1.12
-promise==2.1.dev0
+promise==2.0.1
 pytz==2017.2
 singledispatch==3.4.0.3
 six==1.11.0
