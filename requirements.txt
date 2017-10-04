@@ -1,8 +1,10 @@
+dj-database-url==0.4.2
 Django==1.11.5
 graphene==2.0.dev20170802065539
 graphene-django==2.0.dev2017083101
 graphql-core==2.0.dev20170801051721
 graphql-relay==0.4.5
+gunicorn==19.7.1
 iso8601==0.1.12
 promise==2.0.1
 pytz==2017.2
@@ -10,3 +12,4 @@ singledispatch==3.4.0.3
 six==1.11.0
 typing==3.6.2
 wheel==0.24.0
+whitenoise==3.3.1
